@@ -1,2 +1,2 @@
 # Recommendation-Systems
-This is where you can find my recommendation system projects.
+This system was built to recommend stress reduction techniques to users.
